@@ -32,6 +32,30 @@
 🔹 [**Machine-Learning**](https://github.com/dr-mushtaq/Machine-Learning) – Implementation of ML algorithms with Jupyter notebooks.  
 🔹 [**Projects**](https://github.com/hussain0048/Projects-) – 100+ real-world AI projects & mini applications.  
 
+## 📚 Current Focus
+- 🤖 Building an **AI-based Chatbot for Virtual University**  
+- 📈 Exploring **Time Series Forecasting with Deep Learning**  
+- 📘 Creating **open-source educational resources** for Data Science learners
+
+ ## 🏆 Achievements
+- ✅ Supervised multiple **MS/PhD theses in AI, NLP, and Computer Vision**  
+- ✅ Published research in **AI, Education, and Machine Learning**  
+- ✅ Contributed to developing **real-world projects** (Chatbots, CV apps, Sentiment Analysis)
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dr-mushtaq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-mushtaq&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-mushtaq&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
 
