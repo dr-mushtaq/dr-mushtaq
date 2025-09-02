@@ -6,6 +6,12 @@
 
 👋 Greetings! I'm Mushtaq Hussain, a seasoned trainer and Assistant Professor renowned for my extensive experience in both industry and academia. My expertise lies in the dynamic realm of Data Science, where I excel in harnessing the power of Python, MATLAB, RapidMiner, and a comprehensive suite of cutting-edge tools. With a robust background in machine learning and deep learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of data-driven solutions.
 
+# 👋 Hi, I'm Dr. Mushtaq Hussain  
+
+🎓 **Assistant Professor | Data Scientist | Researcher | HEC-Approved PhD Supervisor**  
+💡 Passionate about **Machine Learning, Deep Learning, NLP, Computer Vision, and AI in Education**  
+📍 Based in Pakistan | 🌍 Open for global collaborations  
+
 💻 My journey in the field of Machine Learning (ML) and Deep Learning has been enriching, marked by hands-on experience and a commitment to innovation. As an Assistant Professor at the Virtual University of Pakistan, I blend practical industry insights with academic rigor to empower the next generation of data enthusiasts.
 
 🔬 Whether it's unraveling complex datasets, building predictive models, or diving into the depths of deep learning architectures, I thrive on the challenge of solving real-world problems through data analysis.
