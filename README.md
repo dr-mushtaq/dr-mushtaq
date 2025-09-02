@@ -7,6 +7,12 @@
 💡 Passionate about **Machine Learning, Deep Learning, NLP, Computer Vision, and AI in Education**  
 📍 Based in Pakistan | 🌍 Open for global collaborations  
 
+## 🚀 About Me
+- 🧑‍🏫 Teaching **Machine Learning, Deep Learning, NLP, and Computer Vision** from beginner to advanced level.  
+- 🔬 Leading **research projects** in AI, Chatbots, and Educational Data Mining.  
+- 📊 Strong expertise in **Python, Keras, PyTorch, scikit-learn, TensorFlow, MySQL, and Streamlit**.  
+- 🤝 Actively collaborating with students & researchers on applied AI projects.  
+
 
 🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
 
