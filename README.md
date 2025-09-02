@@ -11,7 +11,18 @@
 - 🧑‍🏫 Teaching **Machine Learning, Deep Learning, NLP, and Computer Vision** from beginner to advanced level.  
 - 🔬 Leading **research projects** in AI, Chatbots, and Educational Data Mining.  
 - 📊 Strong expertise in **Python, Keras, PyTorch, scikit-learn, TensorFlow, MySQL, and Streamlit**.  
-- 🤝 Actively collaborating with students & researchers on applied AI projects.  
+- 🤝 Actively collaborating with students & researchers on applied AI projects.
+  ---
+## 🔧 Tech Stack
+- **Languages:** Python, MATLAB, SQL  
+- **ML/DL Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, PyCaret  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, PowerBI  
+- **Specialties:**  
+  - Machine Learning (Regression, Classification, Clustering)  
+  - Deep Learning (ANN, CNN, RNN, Transformers)  
+  - NLP (Text Classification, Summarization, Chatbots)  
+  - Computer Vision (Image Processing, Detection, Recognition)  
+- **Dev Tools:** Jupyter, Colab, Streamlit, GitHub, Flask, VSCode
 
 
 🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
