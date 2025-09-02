@@ -12,7 +12,7 @@
 - 🔬 Leading **research projects** in AI, Chatbots, and Educational Data Mining.  
 - 📊 Strong expertise in **Python, Keras, PyTorch, scikit-learn, TensorFlow, MySQL, and Streamlit**.  
 - 🤝 Actively collaborating with students & researchers on applied AI projects.
-  ---
+
 ## 🔧 Tech Stack
 - **Languages:** Python, MATLAB, SQL  
 - **ML/DL Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, PyCaret  
