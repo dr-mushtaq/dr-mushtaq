@@ -24,6 +24,14 @@
   - Computer Vision (Image Processing, Detection, Recognition)  
 - **Dev Tools:** Jupyter, Colab, Streamlit, GitHub, Flask, VSCode
 
+  
+## 📂 Featured Repositories
+🔹 [**Research-Work**](https://github.com/dr-mushtaq/Research-Work) – A-Z guide to academic research, tutorials, datasets, and collaborative projects.  
+🔹 [**Deep-Learning**](https://github.com/dr-mushtaq/Deep-Learning) – Hands-on tutorials with TensorFlow & Keras.  
+🔹 [**Python-Notes**](https://github.com/dr-mushtaq/Python-Notes) – Beginner-friendly Python notes & examples.  
+🔹 [**Machine-Learning**](https://github.com/dr-mushtaq/Machine-Learning) – Implementation of ML algorithms with Jupyter notebooks.  
+🔹 [**Projects**](https://github.com/hussain0048/Projects-) – 100+ real-world AI projects & mini applications.  
+
 
 🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
 
