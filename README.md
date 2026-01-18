@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/dr-mushtaq/dr-mushtaq.github.io/blob/main/images/Banner.png"></a>
+<img src=""></a>
 </p>
 <h1 align="left">👋 Hi, I'm Dr. Mushtaq Hussain  </h1>
 
