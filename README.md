@@ -15,16 +15,16 @@
 
   # Weekly Learning Progress
 
-| Day | Topic 1 | Topic 2 / Project | Year | Status |
-|------|----------|------------------|------|----------|
-| Monday | CNN | Deep Learning – Improve ANN | 2026 | In Progress |
-| Tuesday | Unsupervised Learning | Deep Learning Projects | 2026 | In Progress |
-| Wednesday | Machine Learning & Generative AI with LLMs | Job Applications / Job Posting | 2026 | In Progress |
-| Thursday | FastAPI & Deep Learning with PyTorch | Publication #2 | 2026 | In Progress |
-| Friday | Research Work – Text Summarization (Paper) | NLP – Sequence Models | 2026 | In Progress |
-| Saturday | Computer Vision Basics | Advanced Computer Vision | 2026 | In Progress |
-| Sunday | NLP | NLP with Attention Mechanisms | 2026 | In Progress |
-| Ongoing | Supervised Learning | Continuous Practice & Revision | 2026 | In Progress |
+| Day | Course | Year | Status |
+|------|----------|------------------|------|
+| Monday | CNN | 2026 | In Progress |
+| Tuesday | Unsupervised Learning | 2026 | In Progress |
+| Wednesday | Machine Learning & Generative AI with LLM| 2026 | In Progress |
+| Thursday | FastAPI & Deep Learning with PyTorch | 2026 | In Progress |
+| Friday | Research Work – Text Summarization (Paper) | 2026 | In Progress |
+| Saturday | Computer Vision Basics & Advanced Computer Vision | 2026 | In Progress |
+| Sunday | NLP & NLP with Attention Mechanisms | 2026 | In Progress |
+
 
 ## 🔧 Tech Stack
 - **Languages:** Python, MATLAB, SQL  
