@@ -17,8 +17,8 @@
 
 | Day | Course | Year | Status | Contributor Name|Todo List|
 |------|----------|------------------|------|---|---|
-| Monday | CNN | 2026 | In Progress |
-| Tuesday | Unsupervised Learning-Reinforcement Learning | 2026 | In Progress |Mayank Sanghi| Create Video|
+| Monday | CNN | 2026 | In Progress |Mayank Sanghi|Create Video|
+| Tuesday | Unsupervised Learning-Reinforcement Learning | 2026 | In Progress |---|--|
 | Wednesday | Machine Learning & Generative AI with LLM| 2026 | In Progress |
 | Thursday | FastAPI & Deep Learning with PyTorch | 2026 | In Progress |
 | Friday | Research Work – Text Summarization (Paper) | 2026 | In Progress |
