@@ -15,8 +15,8 @@
 
   # Weekly Learning Progress
 
-| Day | Course | Year | Status | Contributor Name|Todo List|
-|------|----------|------------------|------|---|---|
+| Day | Course | Year | Status | Contributor Name|
+|------|----------|------------------|------|---|
 | Monday | CNN | 2026 | In Progress |Mayank Sanghi|Create Video|
 | Tuesday | Unsupervised Learning-Reinforcement Learning | 2026 | In Progress |---|--|
 | Wednesday | Machine Learning & Generative AI with LLM| 2026 | In Progress |
