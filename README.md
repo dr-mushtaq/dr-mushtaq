@@ -29,7 +29,6 @@
 | Thursday | FastAPI | 🟡 In Progress | — | — |
 | Friday | Research Work – Text Summarization (Paper) | 🟡 In Progress | — | — |
 | Saturday | Computer Vision Basics & Advanced Computer Vision | 🟡 In Progress | — | — |
-| Sunday | NLP | 🟡 In Progress | — | — |
 | Sunday | NLP Basic | ✅ Completed | — | — |
 | Sunday | NLP with Attention Mechanisms | ✅ Completed | — | — |
 | Sunday | LLM | 🔵 Started | — | — |
