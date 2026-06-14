@@ -31,6 +31,123 @@
 | Sunday | NLP with Attention Mechanisms | 2026 | Completed |
 | Sunday | LLM | 2026 | started |
 
+# 🚀 Weekly Learning Progress Dashboard (2026)
+
+## 📅 Learning Tracker
+
+| Day | Course / Activity | Status | Contributor | Deliverable |
+|------|------------------|---------|-------------|-------------|
+| Monday | CNN | 🟡 In Progress | Mayank Sanghi | 🎥 Create Video |
+| Tuesday | Reinforcement Learning | 🟡 In Progress | — | — |
+| Tuesday | Unsupervised Learning | ✅ Completed | — | — |
+| Wednesday | Generative AI with LLM | 🟡 In Progress | — | — |
+| Wednesday | Machine Learning | ✅ Completed | — | — |
+| Thursday | Deep Learning with PyTorch | 🟡 In Progress | — | — |
+| Thursday | FastAPI | 🟡 In Progress | — | — |
+| Friday | Research Work – Text Summarization (Paper) | 🟡 In Progress | — | — |
+| Saturday | Computer Vision Basics & Advanced Computer Vision | 🟡 In Progress | — | — |
+| Sunday | NLP | 🟡 In Progress | — | — |
+| Sunday | NLP Basic | ✅ Completed | — | — |
+| Sunday | NLP with Attention Mechanisms | ✅ Completed | — | — |
+| Sunday | LLM | 🔵 Started | — | — |
+
+---
+
+# 📊 Weekly Progress Summary
+
+| Metric | Value |
+|----------|---------|
+| 📚 Total Learning Activities | **13** |
+| ✅ Completed | **4** |
+| 🟡 In Progress | **8** |
+| 🔵 Started | **1** |
+| 🎯 Completion Rate | **31%** |
+
+### Overall Progress
+
+```text
+Completed     ██████░░░░░░░░░░░░ 31%
+In Progress   ████████████░░░░░░ 62%
+Started       ██░░░░░░░░░░░░░░░░ 7%
+```
+
+---
+
+# 🏆 Completed This Week
+
+- ✅ Unsupervised Learning
+- ✅ Machine Learning
+- ✅ NLP Basic
+- ✅ NLP with Attention Mechanisms
+
+---
+
+# 🔄 Currently In Progress
+
+- 🟡 CNN
+- 🟡 Reinforcement Learning
+- 🟡 Generative AI with LLM
+- 🟡 Deep Learning with PyTorch
+- 🟡 FastAPI
+- 🟡 Research Work – Text Summarization (Paper)
+- 🟡 Computer Vision Basics & Advanced Computer Vision
+- 🟡 NLP
+
+---
+
+# 🚀 Newly Started
+
+- 🔵 LLM
+
+---
+
+# 🎯 Focus for Next Week
+
+## High Priority
+1. Complete Reinforcement Learning
+2. Complete Deep Learning with PyTorch
+3. Complete FastAPI
+
+## Medium Priority
+4. Complete Generative AI with LLM
+5. Advance Computer Vision
+
+## Research & Advanced Learning
+6. Continue Text Summarization Research Paper
+7. Progress in LLM Specialization
+
+---
+
+# 🌟 Learning Domains Covered
+
+| Domain | Progress |
+|----------|----------|
+| 🤖 Machine Learning | ✅ Strong |
+| 🧠 Deep Learning | 🟡 Active |
+| 💬 NLP | ✅ Strong |
+| ✨ Generative AI & LLMs | 🟡 Active |
+| 👁️ Computer Vision | 🟡 Active |
+| 🔄 Reinforcement Learning | 🟡 Active |
+| ⚡ FastAPI / Backend Development | 🟡 Active |
+| 📄 Research Work | 🟡 Active |
+
+---
+
+# 📈 Weekly Achievement
+
+> 🏅 **4 Courses Completed**
+>
+> 🚀 **8 Courses In Progress**
+>
+> 🎯 **1 New Learning Track Started**
+>
+> 📚 **Strong focus on AI, ML, NLP, Computer Vision, and LLMs**
+
+### Overall Assessment
+
+⭐ **Excellent Learning Momentum**  
+Keep converting "In Progress" items into completed milestones next week.
+
 
 
 ## 🔧 Tech Stack
