@@ -18,12 +18,19 @@
 | Day | Course | Year | Status | Contributor Name|
 |------|----------|------------------|------|---|
 | Monday | CNN | 2026 | In Progress |Mayank Sanghi|Create Video|
-| Tuesday | Unsupervised Learning-Reinforcement Learning | 2026 | In Progress |---|--|
-| Wednesday | Machine Learning & Generative AI with LLM| 2026 | In Progress |
-| Thursday | FastAPI & Deep Learning with PyTorch | 2026 | In Progress |
+| Tuesday | Reinforcement Learning | 2026 | In Progress |---|--|
+| Tuesday | Unsupervised Learning| 2026 | Completed |---|--|
+| Wednesday | Generative AI with LLM| 2026 | In Progress |
+| Wednesday | Machine Learning | 2026 | Completed |
+| Thursday |  Deep Learning with PyTorch | 2026 | In Progress |
+| Thursday | FastAPI | 2026 | In Progress |
 | Friday | Research Work – Text Summarization (Paper) | 2026 | In Progress |
 | Saturday | Computer Vision Basics & Advanced Computer Vision | 2026 | In Progress |
 | Sunday | NLP & NLP with Attention Mechanisms | 2026 | In Progress |
+| Sunday | NLP Basic | 2026 | Completed |
+| Sunday | NLP with Attention Mechanisms | 2026 | Completed |
+| Sunday | LLM | 2026 | started |
+
 
 
 ## 🔧 Tech Stack
