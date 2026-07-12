@@ -20,11 +20,11 @@
 
 | Day | Course / Activity | Status | Contributor | Deliverable |
 |------|------------------|---------|-------------|-------------|
-| Monday | CNN | 🟡 In Progress | Mayank Sanghi | 🎥 Create Video |
+| Monday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) | 🎥 Create Video |
 | Tuesday | Reinforcement Learning | 🟡 In Progress | — | — |
 | Tuesday | Unsupervised Learning | ✅ Completed | — | — |
 | Wednesday | Generative AI with LLM | 🟡 In Progress | — | — |
-| Wednesday | Machine Learning | ✅ Completed | — | — |
+| Wednesday | Machine Learning | ✅ Completed | [Amina Saeed](https://github.com/aminasaeed223) | — |
 | Thursday | Deep Learning with PyTorch | 🟡 In Progress | — | — |
 | Thursday | FastAPI | 🟡 In Progress | — | — |
 | Friday | Research Work – Text Summarization (Paper) | 🟡 In Progress | — | — |
