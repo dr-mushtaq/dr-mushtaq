@@ -19,7 +19,7 @@
 ## 📅 Learning Tracker
 
 | Day | Course / Activity | Status | Contributor | 
-|------|------------------|---------|-------------|-------------|
+|------|------------------|---------|-------------|
 | Monday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) |
 | Tuesday | Reinforcement Learning | 🟡 In Progress | — | — |
 | Tuesday | Unsupervised Learning | ✅ Completed | — | — |
