@@ -23,8 +23,8 @@
 | Monday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) | Code|
 | Tuesday | Deep Learning | 🟡 In Progress |Mushtaq |
 | Tuesday | Reinforcement Learning | 🟡 In Progress |Mushtaq |
-| Tuesday | Unsupervised Learning | ✅ Completed | — | Mushtaq |
-| Wednesday | Generative AI with LLM | 🟡 In Progress | — |Mushtaq|
+| Tuesday | Unsupervised Learning | ✅ Completed | Mushtaq |
+| Wednesday | Generative AI with LLM | 🟡 In Progress |Mushtaq|
 | Wednesday | Machine Learning | ✅ Completed | [Amina Saeed](https://github.com/aminasaeed223) | — |
 | Thursday | Deep Learning with PyTorch | 🟡 In Progress |Mushtaq|
 | Thursday | FastAPI | 🟡 In Progress | Mushaq|
