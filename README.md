@@ -21,7 +21,7 @@
 | Day | Course / Activity | Status | Contributor | To Do List|
 |------|------------------|---------|-------------|-----|
 | Monday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) | Code|
-| Tuesday | Deep Learning | 🟡 In Progress |Mushtaq |
+| Tuesday | Deep Learning | 🟡 In Progress |Dr.Said |
 | Tuesday | Reinforcement Learning | 🟡 In Progress |Mushtaq |
 | Tuesday | Unsupervised Learning | ✅ Completed | Mushtaq |
 | Wednesday | Generative AI with LLM | 🟡 In Progress |Mushtaq|
@@ -30,7 +30,8 @@
 | Thursday | FastAPI | 🟡 In Progress | Mushaq|
 | Thursday | Supervised learning with sklearn | 🟡 In Progress | Mushaq|
 | Friday | Deep Learning with LSTM| 🟡 In Progress | Haris |
-| Saturday | Computer Vision Basics & Advanced Computer Vision | 🟡 In Progress | Mushtaq |
+| Saturday | Computer Vision Basics  | 🟡 In Progress | Kamran, Mushtaq |
+| Saturday | Advanced Computer Vision  | 🟡 In Progress | Kamran, Mushtsaq |
 | Sunday | NLP Basic | ✅ Completed | Dr Said |
 | Sunday | NLP with Attention Mechanisms | ✅ Completed | — | — |
 | Sunday | LLM | 🔵 Started | Mushtaq|
