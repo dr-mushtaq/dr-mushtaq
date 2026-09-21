@@ -27,10 +27,12 @@
 | Wednesday | Generative AI with LLM | 🟡 In Progress |Mushtaq|
 | Wednesday | Machine Learning | ✅ Completed | [Amina Saeed](https://github.com/aminasaeed223) | — |
 | Thursday | Deep Learning with PyTorch | 🟡 In Progress |Mushtaq|
+| Thursday | Math for Machine Learning | 🟡 In Progress |Irfan|
 | Thursday | FastAPI | 🟡 In Progress | Mushaq|
 | Thursday | Supervised learning with sklearn | 🟡 In Progress | Mushaq|
 | Friday | Deep Learning with LSTM| 🟡 In Progress | Haris |
-| Saturday | Computer Vision Basics  | 🟡 In Progress | Kamran, Mushtaq |
+| Saturday | Computer Vision Basics/  | 🟡 In Progress | Kamran, Mushtaq |
+| Saturday | Computer Vision with Deep learning | 🟡 In Progress | Mushtaq |
 | Saturday | Advanced Computer Vision  | 🟡 In Progress | Kamran, Mushtsaq |
 | Sunday | NLP Basic | ✅ Completed | Dr Said |
 | Sunday | NLP with Attention Mechanisms | ✅ Completed | — | — |
