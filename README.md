@@ -20,17 +20,17 @@
 
 | Day | Course / Activity | Status | Contributor | To Do List|
 |------|------------------|---------|-------------|-----|
-| Monday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) | Code|
-| Tuesday | Deep Learning | 🟡 In Progress |Dr.Said |
+| Thursday | Math for Machine Learning | 🟡 In Progress |Irfan|
+| Tuesday | Deep Learning | 🟡 In Progress |Dr.Mushtaq |
 | Tuesday | Reinforcement Learning | 🟡 In Progress |Mushtaq |
 | Tuesday | Unsupervised Learning | ✅ Completed | Mushtaq |
 | Wednesday | Generative AI with LLM | 🟡 In Progress |Mushtaq|
 | Wednesday | Machine Learning | ✅ Completed | [Amina Saeed](https://github.com/aminasaeed223) | — |
 | Thursday | Deep Learning with PyTorch | 🟡 In Progress |Mushtaq|
-| Thursday | Math for Machine Learning | 🟡 In Progress |Irfan|
 | Thursday | FastAPI | 🟡 In Progress | Mushaq|
 | Thursday | Supervised learning with sklearn | 🟡 In Progress | Mushaq|
 | Friday | Deep Learning with LSTM| 🟡 In Progress | Haris |
+| Friday | CNN | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi) | Code|
 | Saturday | Computer Vision Basics/  | 🟡 In Progress | Kamran, Mushtaq |
 | Saturday | Computer Vision with Deep learning | 🟡 In Progress | Mushtaq |
 | Saturday | Advanced Computer Vision  | 🟡 In Progress | Kamran, Mushtsaq |
