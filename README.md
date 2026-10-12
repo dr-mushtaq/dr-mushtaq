@@ -21,7 +21,7 @@
 | Day | Course / Activity | Status | Contributor | To Do List|
 |------|------------------|---------|-------------|-----|
 | Thursday | Math for Machine Learning | 🟡 In Progress |Irfan|
-| Tuesday | Deep Learning | 🟡 In Progress |Dr.Mushtaq |
+| Monday | Deep Learning | 🟡 In Progress |Dr.Mushtaq |
 | Tuesday | Reinforcement Learning | 🟡 In Progress |Mushtaq |
 | Tuesday | Unsupervised Learning | ✅ Completed | Mushtaq |
 | Wednesday | Generative AI with LLM | 🟡 In Progress |Mushtaq|
