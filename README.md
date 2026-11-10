@@ -28,15 +28,15 @@
 | Thursday  | Math for Machine Learning                  | 🟡 In Progress | Irfan                                          |       |
 | Thursday  | Deep Learning with PyTorch                 | 🟡 In Progress | Mushtaq                                        |       |
 | Thursday  | FastAPI                                    | 🟡 In Progress | Mushtaq                                        |       |
-| Thursday  | Supervised Learning with scikit-learn      | 🟡 In Progress | Mushtaq                                        |       |
+| Friday  | Supervised Learning with scikit-learn      | 🟡 In Progress | Mushtaq                                        |       |
 | Friday    | Deep Learning with LSTM                    | 🟡 In Progress | Haris                                          |       |
-| Friday    | CNN                                        | 🟡 In Progress | [Mayank Sanghi](https://github.com/mdsanghi)   | Code  |
-| Saturday  | Computer Vision Basics                      | 🟡 In Progress | Kamran, Mushtaq                                |       |
+| Friday    | CNN                                        | ✅ Completed | [Mayank Sanghi](https://github.com/mdsanghi)     | Code  |
+| Saturday  | Computer Vision Basics                     | 🟡 In Progress | Kamran, Mushtaq                               |       |
 | Saturday  | Computer Vision with Deep Learning         | 🟡 In Progress | Mushtaq                                        |       |
 | Saturday  | Advanced Computer Vision                   | 🟡 In Progress | Kamran, Mushtaq                                |       |
-| Sunday    | NLP Basic                                  | ✅ Completed  | Dr. Said                                       |       |
-| Sunday    | NLP with Attention Mechanisms              | ✅ Completed  | —                                              |       |
-| Sunday    | LLM                                        | 🔵 Started    | Mushtaq                                        |       |
+| Sunday    | NLP Basic                                  | 🟡 In Progress | Dr. Said                                        |       |
+| Sunday    | NLP with Attention Mechanisms              | ✅ Completed  | —                                               |       |
+| Sunday    | LLM                                        | 🔵 Started    | Mushtaq                                         |       |
 
 
 ## 🔧 Tech Stack
